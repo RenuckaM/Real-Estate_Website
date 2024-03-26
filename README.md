@@ -2,14 +2,14 @@
 Real-Estate Website using Bootstrap
  Creating a real estate website in Bootstrap and creating a README file for GitHub involves several key steps. Below is a comprehensive guide to achieve this:
 
-### Setting Up the Environment
+## Setting Up the Environment
    - Use HTML and CSS along with Bootstrap to create the website.
    - You can use a text editor like Visual Studio Code, Sublime Text, or any other preferred IDE for web development.
 
-### Folder Structure
+## Folder Structure
    - Organize your project into a well-structured folder with separate directories for HTML, CSS, images.
 
-### Bootstrap Integration
+## Bootstrap Integration
    - Link the Bootstrap CSS framework in the header section of your HTML page using the following code:
 
    ```html
@@ -18,19 +18,19 @@ Real-Estate Website using Bootstrap
    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
    ```
 
-### Creating Web Pages
+## Creating Web Pages
    - Design the necessary web pages for your real estate website, such as the about page, property listings, services, testimonials and contact page.
 
-### Responsive Design
+## Responsive Design
    - Utilize Bootstrap's grid system to ensure responsiveness across various devices.
 
-### Documenting the Code
+## Documenting the Code
    - Add comments in the HTML and CSS files to explain the code structure and functionality.
 
-### Image Optimization
+## Image Optimization
    - Compress and optimize images to improve website loading speed.
 
-### 10. Screenshots
+## Screenshots
 
 **Mobile View:**
 
