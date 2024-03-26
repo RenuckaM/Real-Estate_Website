@@ -41,6 +41,10 @@ Real-Estate Website using Bootstrap
    - Include detailed steps for running the website locally on the user's machine.
 
 ### 10. Screenshots
+
+**Mobile View**
+![image](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/5f5d8d4f-9653-4a10-a6ad-5cf297e95df3)
+
    
 
    
