@@ -46,8 +46,6 @@ Real-Estate Website using Bootstrap
 ![image](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/e57cfc9b-cb4e-4518-a826-2fd8b947a407)
 ![image](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/6b456765-ce23-4746-b207-2bb35f2051ba)
 
-![Real-Estate](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/f62c7232-60bc-4bd8-91f5-d5c792681fe9)
-
 
 ## Explore and Customize:
 Feel free to explore the project files and customize the content, styling, and features to suit your preferences and showcase the beauty of Coimbatore.
