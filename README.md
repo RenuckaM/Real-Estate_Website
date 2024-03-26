@@ -46,6 +46,16 @@ Real-Estate Website using Bootstrap
 ![image](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/63909c27-64ef-467c-98ec-4d8a34b8b3e1)
 ![image](https://github.com/RenuckaM/Real-Estate_Website/assets/147283564/81ea0d2f-0406-4701-ae55-f04cdfc935a4)
 
+## Explore and Customize:
+Feel free to explore the project files and customize the content, styling, and features to suit your preferences and showcase the beauty of Coimbatore.
+
+## Contributions:
+
+Contributions to this project are welcome! Whether it's adding new features, improving existing code, or fixing bugs, your contributions will help make this blog website even better. Please follow the standard GitHub workflow to submit pull requests.
+
+Let's come together to create an exceptional blog website that celebrates the spirit of Coimbatore!
+
+Happy coding! 🚀
 
 
 
